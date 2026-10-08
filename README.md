@@ -1,3 +1,4 @@
+Hi, I'm Simha Shiva Tharun
 
 I'm a developer interested in building applications with **Python, AI, and cloud technologies**.
 
