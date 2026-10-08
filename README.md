@@ -93,7 +93,7 @@ I'm currently focusing on building a stronger understanding of:
 
 **Email:** simhashiva5657@gmail.com
 
-**LinkedIn:** (https://in.linkedin.com/in/simha-shiva-tharun-00b6a9301)
+**LinkedIn:** https://in.linkedin.com/in/simha-shiva-tharun-00b6a9301
 
 
 Thanks for visiting my profile.
