@@ -1,8 +1,6 @@
 Hi, I'm Simha Shiva Tharun
 
-I'm a developer interested in building applications with **Python, AI, and cloud technologies**.
-
-I started with Python and machine learning and have been expanding into **Generative AI, LLM applications, AI Agents, RAG, MCP, and AWS**. Most of my learning happens through hands-on projects, where I try to understand the technology and build something useful with it.
+AI/ML developer focused on building practical applications with Python, Generative AI, AI Agents, RAG, MCP, and AWS. I learn by building end-to-end projects and exploring how AI systems can connect with tools, data, and cloud services.
 
 ## What I Work With
 
